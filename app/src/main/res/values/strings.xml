@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragFundamentals</string>
+
+    <string name="url">http://api.openweathermap.org/data/2.5/weather?appid=2fdbb11865748f1affb21d0cd696c2dc&amp;units=imperial&amp;zip=</string>
+
+    <string name="countryCode">,us</string>
+</resources>
